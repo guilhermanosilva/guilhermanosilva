@@ -3,7 +3,8 @@
 <em>Seja bem-vindo ao meu github. :octocat:</em>
 
 <p>Me chamo <strong>Guilhermano Silva</strong> e a única coisa que tenho feito desde novembro de 2020 é estar imerso no mundo da programação.</p>
-<h2></h2>
+
+<br>
 
 <h3>💻 Tecnologias</h3>
 
