@@ -76,15 +76,14 @@
 <h3>⚡ O faço no meu tempo livre -></h3>
 
 - 📚 Leio bastante livros de não-ficção;
-- 🎧 Fico ligado nos pordcasts de programção.
+- 🎧 Fico ligado nos podcasts de programção.
 - 🎵 Ouço música e toco violão;
 - 🎥 Gosto Assistir filmes, séries e documentários; 
 
 <br> 
 
-<h4>Vamos no conectar?</h4>
+<h3>Vamos no conectar?</h3>
 
-<hr>
 
 <a href="https://www.linkedin.com/in/guilhermanosilva/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
