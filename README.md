@@ -2,25 +2,10 @@
 
 <em>Seja bem-vindo ao meu github. :octocat:</em>
 
-<br> 
-
 <p>Me chamo <strong>Guilhermano Silva</strong> e a única coisa que tenho feito desde novembro de 2020 é estar imerso no mundo da programação.</p>
+<h2></h2>
 
-<h3>🚶‍♂️ Um pouco sobre min -></h3>
-
-- ✔️ Analista de Sistemas por formação;
-- ✔️ Estusiasmado pelo mundo da programção;
-- ✔️ Amo desenvolvimento web;
-- ✔️ Tenho o mesmo nível de interesse tanto por back-end como front-end;
-- ✔️ Gosto da área de design e do universo dos artistas digitais;
-- ✔️ Apaixonado por ficção científica e super-heróis;
-- ✔️ Não tenho nenhum tipo de preconceito com linguagens de programção;
-- ✔️ Não tenho nenhum tipo de preconceito com identidade de gênero;
-- ✔️ Sim, sento a bunda na cadeira e estudo por que aprendi a gostar disso; 
-
-<br>
-
-<h3>💻 Tecnologias -></h3>
+<h3>💻 Tecnologias</h3>
 
 <p>
 
@@ -73,6 +58,21 @@
 
 <br>
 
+<h3>🚶‍♂️ Um pouco sobre min</h3>
+
+- ✔️ Analista de Sistemas por formação;
+- ✔️ Estusiasmado pelo mundo da programção;
+- ✔️ Amo desenvolvimento web;
+- ✔️ Tenho o mesmo nível de interesse tanto por back-end como front-end;
+- ✔️ Gosto da área de design e do universo dos artistas digitais;
+- ✔️ Apaixonado por ficção científica e super-heróis;
+- ✔️ Não tenho nenhum tipo de preconceito com linguagens de programção;
+- ✔️ Não tenho nenhum tipo de preconceito com identidade de gênero;
+- ✔️ Sim, sento a bunda na cadeira e estudo por que aprendi a gostar disso; 
+
+
+<br>
+
 <h3>⚡ O faço no meu tempo livre -></h3>
 
 - 📚 Leio bastante livros de não-ficção;
@@ -82,7 +82,7 @@
 
 <br> 
 
-<h3>Vamos no conectar?</h3>
+<h3>🔗 Vamos no conectar?</h3>
 
 
 <a href="https://www.linkedin.com/in/guilhermanosilva/" target="_blank">
