@@ -1,4 +1,4 @@
-<h2 align="center" font="18px">Oi pessoa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width ="30px"></h2> 
+<h2 align="center" font="18px">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width ="30px"></h2> 
 
 <p align="center"><em>Seja bem-vindo ao meu github. :octocat:</em></p>
 
