@@ -76,8 +76,10 @@
 
 <h3> 💻 Projetos</h3>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermanosilva&repo=consumer-cep-api)](https://github.com/guilhermanosilva/consumer-cep-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermanosilva&repo=pokemons-memory-game)](https://github.com/guilhermanosilva/pokemons-memory-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermanosilva&repo=snake-game-js)](https://github.com/guilhermanosilva/snake-game-js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermanosilva&repo=BooksApiCSharpMongoDb)](https://github.com/guilhermanosilva/BooksApiCSharpMongoDb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermanosilva&repo=GameApiCSharpSqlServer)](https://github.com/guilhermanosilva/GameApiCSharpSqlServer)
 
 #
 
