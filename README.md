@@ -60,7 +60,7 @@
 - ✔️ Apaixonado por ficção científica e super-heróis;
 - ✔️ Não tenho nenhum tipo de preconceito com linguagens de programção;
 - ✔️ Não tenho nenhum tipo de preconceito com identidade de gênero;
-- ✔️ Sim, sento a bunda na cadeira e estudo por que aprendi a gostar disso; 
+- ✔️ Sempre estou estudano e aprendendo algo novo; 
 
 <br>
 
