@@ -58,13 +58,11 @@
 - ✔️ Tenho o mesmo nível de interesse tanto por back-end como front-end;
 - ✔️ Gosto da área de design e do universo dos artistas digitais;
 - ✔️ Apaixonado por ficção científica e super-heróis;
-- ✔️ Não tenho nenhum tipo de preconceito com linguagens de programção;
-- ✔️ Não tenho nenhum tipo de preconceito com identidade de gênero;
 - ✔️ Sempre estou estudano e aprendendo algo novo; 
 
 <br>
 
-<h3>⚡ O faço no meu tempo livre</h3>
+<h3>⚡ O que faço no meu tempo livre</h3>
 
 - 📚 Leio bastante livros de não-ficção;
 - 🎧 Fico ligado nos podcasts de programção.
