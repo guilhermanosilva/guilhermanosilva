@@ -1,6 +1,6 @@
 <h2 align="center" font="18px">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width ="30px"></h2> 
 
-<p align="center"><em>Seja bem-vindo ao meu github. :octocat:</em></p>
+<p align="center"><em>Seja bem-vinde ao meu github. :octocat:</em></p>
 
 <p align="center">Me chamo <strong>Guilhermano Silva</strong> e a única coisa que tenho feito desde novembro de 2020 é estar imerso no mundo da programação.</p>
 
