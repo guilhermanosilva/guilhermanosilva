@@ -80,7 +80,6 @@
 - ✔️ Apaixonado por ficção científica e super-heróis;
 - ✔️ Sempre estou estudano e aprendendo algo novo; 
 
-<br>
 
 <h3>⚡ O que faço no meu tempo livre</h3>
 
