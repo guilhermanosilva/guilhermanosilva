@@ -62,6 +62,7 @@
 #
 <br>
 
+<!--  
 <h3>🤹 Habilidades</h3>
 
 - 🔥 Criação e estilização de páginas e componentes front-end;
@@ -102,6 +103,8 @@
 #
 
 <br> 
+-->
+
 
 <h3 align="center">🔗 Vamos no conectar?</h3>
 
