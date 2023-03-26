@@ -11,8 +11,8 @@
 </h5>
 
 <h5 align="center">
-  Para mim estudar é uma rotina prazerosa. 
-  <br/>Adoro sentir que estou evoluindo em conecimento técino e em maturidade.
+  Para min estudar programação é uma rotina prazerosa. 
+  <br/>Adoro a sensação de estar evoluindo minha base de conhecimento.
 </h5>
 
 <br/>
