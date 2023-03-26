@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="center">Oi!👋 Guilhermano aqui</h1>
 
-<!--
-**guilhermanosilva/guilhermanosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h6 align="center">DESENVOLVEDOR FRONTEND | ASPIRANTE A FULLSTACK</h6>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5 align="center">
+  Graduado em "Análise e Desenvolvimento de Sistemas" pela "Universidade Estácio de Sá, Fortaleza - CE"
+</h5>
+
+<h5 align="center">
+  Para mim estudar é uma rotina prazerosa. 
+  <br/>Adoro sentir que estou evoluindo em conecimento técino e em maturidade.
+</h5>
+
+<br/>
+
+<h4 align="center">Trabalho com:</h4>
+
+<p align="center">
+  <a 
+    href="https://skillicons.dev" 
+    title="Tecnologias que utilizo"
+    alt="Imagem única contendo todos os icones das tecnologias que utilizo" 
+  >
+    <img src="https://skillicons.dev/icons?i=angular,reactivex,materialui,tailwind,react,redux,styledcomponents,git" />
+  </a>
+</p>
+
+<h4 align="center">Tenho estudado:</h4>
+
+<p align="center">
+  <a 
+    href="https://skillicons.dev" 
+    title="Tecnologias que estudo"
+    alt="Imagem única contendo todos os icones das tecnologias que tenho estudado"
+  >
+    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  </a>
+</p>
