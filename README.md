@@ -1,6 +1,8 @@
 <h1 align="center">Oi!👋 Guilhermano aqui</h1>
 
-<h6 align="center">DESENVOLVEDOR FRONTEND | ASPIRANTE A FULLSTACK</h6>
+<h6 align="center">
+  DESENVOLVEDOR FRONTEND | ASPIRANTE A FULLSTACK
+</h6>
 
 <br/>
 
@@ -36,5 +38,26 @@
     alt="Imagem única contendo todos os icones das tecnologias que tenho estudado"
   >
     <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a 
+    href="http://linkedin.com/in/guilhermanosilva/" 
+    title="Linkedin"
+    alt="Link para o meu linkedin"
+    target="_blank"
+  >
+    Linkedin
+  </a> | 
+  <a 
+    href="https://instagram.com/guilhermano.dev" 
+    title="Instagram"
+    alt="Link para o meu instagram"
+    target="_blank"
+  >
+    Instagram
   </a>
 </p>
