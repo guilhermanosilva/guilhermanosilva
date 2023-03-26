@@ -11,8 +11,8 @@
 </h5>
 
 <h5 align="center">
-  Para min estudar programação é uma rotina prazerosa. 
-  <br/>Adoro a sensação de estar evoluindo minha base de conhecimento.
+  Estou atuando profissionalmente como desenvolvedor frontend, utilizando Angular, Angular Material e Tailwindcss.
+  <br/>Além disso, sou responsável pela manutenção do frontend de um e-commerce que desenvolvi utilizando ReactJs.
 </h5>
 
 <br/>
