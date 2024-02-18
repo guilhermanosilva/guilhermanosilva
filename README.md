@@ -1,63 +1,95 @@
-<h1 align="center">Oi!👋 Guilhermano aqui</h1>
+<h3 align="center">Olá! Sou o Guilhermano.</h3>
+<hr />
+
+<br />
 
 <h6 align="center">
-  DESENVOLVEDOR FRONTEND | ASPIRANTE A FULLSTACK
+  DESENVOLVEDOR FULLSTACK
 </h6>
 
-<br/>
-
 <h5 align="center">
-  Graduado em "Análise e Desenvolvimento de Sistemas" pela "Universidade Estácio de Sá, Fortaleza - CE"
+  Graduado em Análise e Desenvolvimento de Sistemas, possuo experiência na criação e manuteção de sistemas web.
+  <br />
 </h5>
 
-<h5 align="center">
-  Estou atuando profissionalmente como desenvolvedor frontend, utilizando Angular, Angular Material e Tailwindcss.
-  <br/>Além disso, sou responsável pela manutenção do frontend de um e-commerce que desenvolvi utilizando ReactJs.
-</h5>
+<h6 align="center">
+  Atuo profissionalmente como desenvolvedor fullstack, focado principalmente na criação e atualização de códigos backend e frontend.
+  <br />
+  Adoro trabalhar em equipe e colaborar com meu time para resolver nossos desafios objetivando sempre em entregar valor para o negócio.<br />
+</h6>
+
+<br />
+<hr />
+<br />
+
+<h6 align="center">PRINCIPAIS TECNOLOGIAS QUE UTILIZO</h6>
+
+<br />
+
+<div align="center">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=csharp" 
+    alt="Icone C#" 
+    title="C#"/>
+  <img src="https://simpleskill.icons.workers.dev/svg?i=.net" 
+    alt="Icone .NET" 
+    title=".NET"/>
+  <img src="https://simpleskill.icons.workers.dev/svg?i=microsoftsqlserver" 
+    alt="Icone Microsoft SQL Server" 
+    title="Microsoft SQL Server"/>
+  <img src="https://simpleskill.icons.workers.dev/svg?i=azuredevops" 
+    alt="Icone Azure DevOps" 
+    title="Azure DevOps"/>
+  <img src="https://simpleskill.icons.workers.dev/svg?i=microsoftazure" 
+    alt="Icone Microsoft Azure" 
+    title="Microsoft Azure"/>
+  <img src="https://simpleskill.icons.workers.dev/svg?i=visualstudio" 
+    alt="Visual Studio" 
+    title="Visual Studio"/>
+  <img src="https://simpleskill.icons.workers.dev/svg?i=visualstudiocode" 
+    alt="Visual studio code" 
+    title="Visual studio code"/>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=html5" 
+    alt="Icone HTML5" 
+    title="HTML5"/>
+  <img src="https://simpleskill.icons.workers.dev/svg?i=javascript" 
+    alt="Icone JavaScript" 
+    title="JavaScript"/>
+  <img src="https://simpleskill.icons.workers.dev/svg?i=css3" 
+    alt="Icone CSS3" 
+    title="CSS3"/>
+  <img src="https://simpleskill.icons.workers.dev/svg?i=react" 
+    alt="Icone React" 
+    title="React"/>
+  <img src="https://simpleskill.icons.workers.dev/svg?i=angular" 
+    alt="Icone Angular" 
+    title="Angular"/>
+  <img src="https://simpleskill.icons.workers.dev/svg?i=tailwindcss" 
+    alt="Icone Tailwind CSS" 
+    title="Tailwind CSS"/>
+  <img src="https://simpleskill.icons.workers.dev/svg?i=styledcomponents" 
+    alt="Icone Styled Components" 
+    title="Styled Components"/>
+</div>
 
 <br/>
-
-<h4 align="center">Trabalho com:</h4>
-
-<p align="center">
-  <a 
-    href="https://skillicons.dev" 
-    title="Tecnologias que utilizo"
-    alt="Imagem única contendo todos os icones das tecnologias que utilizo" 
-  >
-    <img src="https://skillicons.dev/icons?i=angular,reactivex,materialui,tailwind,react,redux,styledcomponents,git" />
-  </a>
-</p>
-
-<h4 align="center">Tenho estudado:</h4>
-
-<p align="center">
-  <a 
-    href="https://skillicons.dev" 
-    title="Tecnologias que estudo"
-    alt="Imagem única contendo todos os icones das tecnologias que tenho estudado"
-  >
-    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-  </a>
-</p>
-
 <br/>
 
+<h6 align="center">Linkedin</h6>
+
 <p align="center">
-  <a 
-    href="http://linkedin.com/in/guilhermanosilva/" 
-    title="Linkedin"
-    alt="Link para o meu linkedin"
-    target="_blank"
-  >
-    Linkedin
-  </a> | 
-  <a 
-    href="https://instagram.com/guilhermano.dev" 
-    title="Instagram"
-    alt="Link para o meu instagram"
-    target="_blank"
-  >
-    Instagram
-  </a>
+    <a 
+      href="http://linkedin.com/in/guilhermanosilva/" 
+      title="Linkedin"
+      alt="Link para o meu linkedin"
+      target="_blank"
+    >
+      <img src="https://simpleskill.icons.workers.dev/svg?i=linkedin" 
+        alt="Linkedin" 
+        title="Linkedin"/>
+    </a>
 </p>
