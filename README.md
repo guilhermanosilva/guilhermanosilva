@@ -7,8 +7,6 @@
 ## Meu nome é Guilhermano Silva
 💻 ReactJs | Typescript | Tailwindcss | .NET Core | C# | SQL Server | Angular | Javascript | HTML | CSS
 
-<br />
-
 > - 👩‍💻 Denvolvedor de software desde 2021 | @[Leanwork](https://www.leanwork.com.br/)
 > - 🎓 Analista de Sistemas | ADS
 > - 🌐 Apaixonado por programação e desenvolviemnto web
