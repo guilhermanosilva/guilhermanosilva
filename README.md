@@ -1,22 +1,57 @@
-<h1>Olá! 👋</h1>
+<!-- Top langs card -->
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermanosilva&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2&border_color=333333&text_color=cccccc&title_color=cccccc" height="200" alt="languages graph"  />
 
+### Olá 👋, meu nome é Guilhermano!
+
+<!-- Links badge -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-154c79?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermanosilva/)](https://www.linkedin.com/in/guilhermanosilva/)
-[![Gmail Badge](https://img.shields.io/badge/-guilhermanodev@gmail.com-154c79?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermanodev@gmail.com)](mailto:guilhermanodev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-guilhermanodev@gmail.com-D93025?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermanodev@gmail.com)](mailto:guilhermanodev@gmail.com)
+
+Trabalhando na [Leanwork Group](https://www.leanwork.com.br/)<br/> 
+
+> 👩‍💻 Sou desenvolvedor FullStack<br/> 
+> 💻 ReactJs | Typescript | .NET Core | C#
+
 <!-- [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.guilhermanosilva.com/)](https://guilhermanosilva.com/) -->
-
-## Meu nome é Guilhermano Silva
-💻 ReactJs | Typescript | Tailwindcss | .NET Core | C# | SQL Server | Angular | Javascript | HTML | CSS
-
-> - 👩‍💻 Denvolvedor de software desde 2021 | @[Leanwork](https://www.leanwork.com.br/)
-> - 🎓 Analista de Sistemas | ADS
-> - 🌐 Apaixonado por programação e desenvolviemnto web
-> - 🎯 Focando sempre em aumentar a qualidade e a agilidade no desenvolvimento dos meus códigos
 
 ##
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermanosilva&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="160" alt="languages graph"  />
-</div>
+### Experiência de trabalho
+
+<!-- Leanwork group link logo -->
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4D0BAQHyEZH9yIkdMA/company-logo_100_100/company-logo_100_100/0/1660671072293/leanworkgroup_logo?e=1738800000&v=beta&t=gxZU1Yu8zsnlUjJGHn9-7kVh2c5GfHxcX7a-b_JeGc4"/>](https://www.leanwork.com.br/)
+
+<!-- Experiência 3 -->
+**Full-stack Developer (Pl) | 08/23 - atual** \
+[**Farmácias APP**](https://www.farmaciasapp.com.br/) • Full-time • Outsourcing • Remoto \
+Projetos: [Painel administrativo do lojista](https://lojista.farmaciasapp.com.br/) \
+Linguagens & Tecnologias: `ReactJS` `Typescript` `TailwindCss` `ChadcnUI` `React Hook Form` `Zod` `Zustand` `Playwright` \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+`.NET Core`, `C#`, `Entity Framework Core`, `Dapper`, `SQL Server`
+
+##
+
+<!-- Leanwork group link logo -->
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4D0BAQHyEZH9yIkdMA/company-logo_100_100/company-logo_100_100/0/1660671072293/leanworkgroup_logo?e=1738800000&v=beta&t=gxZU1Yu8zsnlUjJGHn9-7kVh2c5GfHxcX7a-b_JeGc4"/>](https://www.leanwork.com.br/)
+
+<!-- Experiência 2 -->
+**Front-end Developer (Jr) | 06/22 - 07/23** \
+[**Moderna**](https://www.moderna.com.br/) • Full-time • Outsourcing • Remoto \
+Projetos: Backoffice do sistema de administração de escolas \
+Linguagens & Tecnologias: `Angular 13` `Typescript` `TailwindCss` `Material UI` `RXJS`
+
+##
+
+<!-- Leanwork group link logo -->
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4D0BAQHyEZH9yIkdMA/company-logo_100_100/company-logo_100_100/0/1660671072293/leanworkgroup_logo?e=1738800000&v=beta&t=gxZU1Yu8zsnlUjJGHn9-7kVh2c5GfHxcX7a-b_JeGc4"/>](https://www.leanwork.com.br/)
+
+<!-- Experiência 1 -->
+**Front-end Developer (Jr) | 11/21 - 06/22** \
+[**Leanwork Group**](https://www.leanwork.com.br/) • Full-time • Remoto \
+Projetos: E-commerce B2B Sidney Oliveira \
+Linguagens & Tecnologias: `ReactJS` `Typescript` `Styled-Components` `Formik` `Redux` `Redux Saga`
+<br/>
+<br/>
 
 ##
 
