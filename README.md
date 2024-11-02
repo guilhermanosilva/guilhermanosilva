@@ -25,9 +25,8 @@ Trabalhando na [Leanwork Group](https://www.leanwork.com.br/)<br/>
 **Full-stack Developer (Pl) | 08/23 - atual** \
 [**Farmácias APP**](https://www.farmaciasapp.com.br/) • Full-time • Outsourcing • Remoto \
 Projetos: [Painel administrativo do lojista](https://lojista.farmaciasapp.com.br/) \
-Linguagens & Tecnologias: `ReactJS` `Typescript` `TailwindCss` `ChadcnUI` `React Hook Form` `Zod` `Zustand` `Playwright` \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-`.NET Core`, `C#`, `Entity Framework Core`, `Dapper`, `SQL Server`
+Linguagens & Tecnologias: `ReactJS` `Typescript` `TailwindCss` `ChadcnUI` `React Hook Form` `Zod` `Zustand` `Playwright`
+`.NET`, `C#`, `EntityFrameworkCore`, `Dapper`, `SQLServer`
 
 ##
 
