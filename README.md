@@ -22,7 +22,7 @@ Trabalhando na [Leanwork Group](https://www.leanwork.com.br/)<br/>
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4D0BAQHyEZH9yIkdMA/company-logo_100_100/company-logo_100_100/0/1660671072293/leanworkgroup_logo?e=1738800000&v=beta&t=gxZU1Yu8zsnlUjJGHn9-7kVh2c5GfHxcX7a-b_JeGc4"/>](https://www.leanwork.com.br/)
 
 <!-- Experiência 3 -->
-**Full-stack Developer (Pl) | 08/23 - atual** \
+**Full-stack Developer (Pl) | 08/23 - até o momento** \
 [**Farmácias APP**](https://www.farmaciasapp.com.br/) • Full-time • Outsourcing • Remoto \
 Projetos: [Painel administrativo do lojista](https://lojista.farmaciasapp.com.br/) \
 Linguagens & Tecnologias: `ReactJS` `Typescript` `TailwindCss` `ChadcnUI`, `TanStack Query` `React Hook Form` `Zod` `Zustand` `Playwright`
